@@ -19,5 +19,5 @@ RC-carの写真
 赤外線センサーの作動実験の様子
 <video controls src="etc/test_sensor.mp4"></video>
 動画が読み込めない方は、お手数ですが下記のYoutube動画から閲覧ください。<br>
-https://youtu.be/jgoB3RDY65M
+https://www.youtube.com/watch?v=9IW0eQ3qFIM
 
